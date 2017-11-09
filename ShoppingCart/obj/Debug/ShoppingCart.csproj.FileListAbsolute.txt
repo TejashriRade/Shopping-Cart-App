@@ -1,0 +1,8 @@
+C:\Users\radet\Downloads\angularjs-cart-master\angularjs-cart-master\ShoppingCart\bin\ShoppingCart.dll
+C:\Users\radet\Downloads\angularjs-cart-master\angularjs-cart-master\ShoppingCart\bin\ShoppingCart.pdb
+C:\Users\radet\Downloads\angularjs-cart-master\angularjs-cart-master\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\radet\Downloads\angularjs-cart-master\angularjs-cart-master\ShoppingCart\obj\Debug\ShoppingCart.pdb
+D:\angularjs-cart-master\ShoppingCart\bin\ShoppingCart.dll
+D:\angularjs-cart-master\ShoppingCart\bin\ShoppingCart.pdb
+D:\angularjs-cart-master\ShoppingCart\obj\Debug\ShoppingCart.dll
+D:\angularjs-cart-master\ShoppingCart\obj\Debug\ShoppingCart.pdb
